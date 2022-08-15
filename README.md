@@ -28,7 +28,6 @@ The network is called
 EfficientNetB4-BIRDS-0.99.h5
 ```
 
-:hatching_chick:
 Pip install these
 
 Requirements
@@ -41,9 +40,13 @@ PySimpleGUI
 ```
 
 Run it like this 
+
 ```
 C:\my\path\to\song-bird-recongizer>python controller.py
 ```
+<br/>
+:hatching_chick:
+<br/>
 :hatched_chick:
 
 ### The story
