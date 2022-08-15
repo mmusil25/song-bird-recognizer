@@ -62,7 +62,7 @@ was to build an LTE antenna out of copper tubing in order to extend the range of
 Once I established a wireless LAN I realized that I could connect his nature camera over IP to my computer.
 
 <br/>
-here's the connection between the IP camera (blue CAT-X) and the LAN (tan CAT-X) over an unmanaged switch. 
+here's the connection between the IP camera (blue CATx) and the LAN (tan CATx) over an unmanaged switch. 
 
 <br/>
 <img src="media/network.jpg" alt="Input" width="300"/>
