@@ -62,15 +62,27 @@ And another
 <img src="media/crop1.jpg" alt="crop1" width="200"/>
 <br/>
 
-The cropped imagesgo directly into the neural network after being squashed to shape=(112,112,3). 
-The neural network was not trained in house but instead was loaded from an existing premade network (.H5 file). 
-You can find [that network and the dataset here](https://www.kaggle.com/datasets/gpiosenka/100-bird-species).
+---
+
+The user saves the cropped images under 
+
+'''
+./snapshots_input_dir/
+'''
+
+At runtime, the user selects the network file and snapshot input directory. You can find [that network here](https://www.kaggle.com/datasets/gpiosenka/100-bird-species).
 
 The network is called
 
 '''
 EfficientNetB4-BIRDS-0.99.h5
 '''
+
+
+All cropped images then proceed into the neural network after being squashed to shape=(112,112,3) by tensorflow. 
+The neural network was not trained in house but instead was loaded from an existing premade network (.H5 file). This design
+decision was a matter of prudence and scope. The mobile development laptop I'm using could not handle the workload of
+training. 
 
 ### SysML diagrams
 
