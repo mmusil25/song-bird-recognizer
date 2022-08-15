@@ -1,5 +1,11 @@
 # song bird classifier
 
+---
+
+:bird:
+
+---
+
 ## Results
 
 A classification result taken directly from the nature camera
@@ -13,8 +19,32 @@ A second result
 <img src="media/Azure_Jay.jpg" alt="Purple Martin" width="300"/>
 <br/>
 
+## Install and use
 
+Download the pre-trained model .H5 file from [this link](https://www.kaggle.com/datasets/gpiosenka/100-bird-species).
 
+The network is called
+
+'''
+EfficientNetB4-BIRDS-0.99.h5
+'''
+:hatching_chick:
+Pip install these
+
+Requirements
+'''
+numpy
+keras
+tensorflow
+opencv2-python
+PySimpleGUI
+'''
+
+Run it like this 
+'''
+C:\my\path\to\song-bird-recongizer>python controller.py
+'''
+:hatched_chick:
 
 ### The story
 

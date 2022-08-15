@@ -1,5 +1,4 @@
 import PySimpleGUI as sg
-import threading
 import cv2
 from tools import indexToBird
 
@@ -13,7 +12,7 @@ class a_gui():
 
         layout = [
                   [sg.Text('Machine learning model (.H5 file): '), sg.In(size=(25,1), enable_events=True ,key='-FILE_ECHO-'), sg.FileBrowse(key="COMPUTER_VISION_MODEL_H5", 
-                                                                                                                                            file_types=[("Model save", "*.H5")])],
+                                                                                                                                       file_types=[("Model save", "*.H5")])],
                   [sg.Text('Choose cropped bird photo folder'), sg.In(size=(25,1), enable_events=True ,key='-FILE_ECHO-'), sg.FolderBrowse(key="-PATH2SNAPS-")],                 
                   [sg.Button('Classify birds', size=(50, 1))],
                   [sg.Text('Have fun dad! - Love, Mark')]
