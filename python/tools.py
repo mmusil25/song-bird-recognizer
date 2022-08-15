@@ -13,4 +13,4 @@ def indexToBird(anInt):
             english.append(row[1])
             latin.append(row[2])
 
-    return english[anInt]
+    return english[anInt+1]

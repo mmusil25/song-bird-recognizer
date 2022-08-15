@@ -1,11 +1,23 @@
 # song bird classifier
 
+## Results
+
+<img src="media/Purple_Martin.jpg" alt="Azure Jay" width = "600">
+_A classification result taken directly from the nature camera_
+
+<img src="media/Azure_Jay.jpg" alt="Purple Martin" width = "600">
+_A second result_
+
 ### The story
 
 I recently visited my father and we were both interested by the idea of using his nature cam to build an
 end-to-end bird classifier. A few years back I had made an antenna system for him to be able to access
 broadband LTE as a home internet solution. Our [first project during this year's visit](https://github.com/mmusil25/handmade-LTE-antenna) 
 was to build an LTE antenna out of copper tubing in order to extend the range of the indoor LTE repeater. 
+
+This bird classification project was an offshoot of my other goal which was to configure broadband access for
+my dad. Once I established a wireless LAN I realized that I could connect the 
+
 
 Once the hotspot had a reliable LTE input, we installed two WiFI mesh nodes to broadband the available 5 GHz network
 and to use the range extenders as unmanaged switches. These nodes then provided a network access point for both the 
@@ -17,15 +29,24 @@ picture of the input frame that was monitored continuously. You can see in this 
 focus around the birds.  
 
 
-<img src="media/frame.jpg" alt="View field" width="200"/>
 
-
+<img src="media/frame.jpg" alt="View field" width="500"/>
+<br/>
+_The view field of the nature camera which received input_
 
 The cropped images (below) then go directly into the neural network after being squashed to shape=(112,112,3)
 
-![crop](media/crop.jpg)
-![crop1](media/crop1.jpg)
+---
 
+<img src="media/crop.jpg" alt="crop" width="500"/>
+<br/>
+_An example cropped image_
+
+---
+
+<img src="media/crop1.jpg" alt="crop1" width="500"/>
+<br/>
+_
 
 ### SysML diagrams
 
