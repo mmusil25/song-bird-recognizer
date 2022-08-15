@@ -16,7 +16,10 @@ I configured Blue Iris to take snapshots of activity centered around the bird fe
 picture of the input frame that was monitored continuously. You can see in this image that an orange rectangle is used to center
 focus around the birds.  
 
-![The entire view field](media/frame.jpg)
+
+<img src="media/frame.jpg" alt="View field" width="200"/>
+
+
 
 The cropped images (below) then go directly into the neural network after being squashed to shape=(112,112,3)
 
