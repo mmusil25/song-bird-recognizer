@@ -65,7 +65,7 @@ Once I established a wireless LAN I realized that I could connect his nature cam
 Here's the connection between the IP camera (blue CATx) and the LAN (tan CATx) over an unmanaged switch. 
 <br/>
 <br/>
-<img src="media/network.jpg" alt="Input" width="300"/>
+<img src="media/network.jpg" alt="Input" width="450"/>
 <br/>
 
 We had installed two WiFI mesh nodes to repeat the available 5 GHz network
