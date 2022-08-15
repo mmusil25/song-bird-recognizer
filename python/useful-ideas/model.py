@@ -7,9 +7,9 @@ from keras.models import load_model
 import numpy as np
 
 
-testPath = r'C:\code\ml-playground\song-bird-classifier\archive\train'
+testPath = None
 
-premade_H5 = r'C:\code\ml-playground\premade_network\EfficientNetB4-BIRDS-0.99.h5'
+premade_H5 = None
 
 
 # Machine learning specific constants
@@ -38,7 +38,7 @@ class bird_Model:
              #   print(labels.dtype)
         return
     def load_pretrained(path=None):
-        self.premade = load_model(r'C:/code/ml-playground/premade_network/EfficientNetB4-BIRDS-0.99.h5')
+        self.premade = load_model(None)
         print(premade.summary())
 
     def demo(self):
