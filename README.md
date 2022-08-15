@@ -54,9 +54,7 @@ I recently visited my father and we were both interested by the idea of using hi
 end-to-end bird classifier. A few years back I had made an antenna system for him to be able to access
 broadband LTE as a home internet solution. Our [first project during this year's visit](https://github.com/mmusil25/handmade-LTE-antenna) 
 was to build an LTE antenna out of copper tubing in order to extend the range of the indoor LTE repeater. 
-
-This bird classification project was an offshoot of my other goal which was to configure broadband access for
-my dad. Once I established a wireless LAN I realized that I could connect the camera over IP to my computer.
+Once I established a wireless LAN I realized that I could connect his nature camera over IP to my computer.
 
 
 Once the hotspot had a reliable LTE input, we installed two WiFI mesh nodes to repeat the available 5 GHz network
