@@ -52,9 +52,10 @@ C:\my\path\to\song-bird-recongizer>python controller.py
 
 A few years back my dad installed an Amcrest IP4M-1053EW on his property in Arizona
 <br/>
+<br/>
 <img src="media/cam.jpg" alt="Input" width="300"/>
 <br/>
-I recently visited my father and we were both interested by the idea of using his nature cam to build an
+I recently visited and we were both interested by the idea of using his nature cam to build an
 end-to-end bird classifier. A few years back I had made an antenna system for him to be able to access
 broadband LTE as a home internet solution. Our [first project during this year's visit](https://github.com/mmusil25/handmade-LTE-antenna) 
 was to build an LTE antenna out of copper tubing in order to extend the range of the indoor LTE repeater. 
