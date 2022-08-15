@@ -57,7 +57,7 @@ broadband LTE as a home internet solution. Our [first project during this year's
 was to build an LTE antenna out of copper tubing in order to extend the range of the indoor LTE repeater. 
 
 This bird classification project was an offshoot of my other goal which was to configure broadband access for
-my dad. Once I established a wireless LAN I realized that I could connect the 
+my dad. Once I established a wireless LAN I realized that I could connect the camera over IP to my computer.
 
 
 Once the hotspot had a reliable LTE input, we installed two WiFI mesh nodes to broadband the available 5 GHz network
