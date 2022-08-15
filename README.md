@@ -56,9 +56,8 @@ broadband LTE as a home internet solution. Our [first project during this year's
 was to build an LTE antenna out of copper tubing in order to extend the range of the indoor LTE repeater. 
 Once I established a wireless LAN I realized that I could connect his nature camera over IP to my computer.
 
-
-Once the hotspot had a reliable LTE input, we installed two WiFI mesh nodes to repeat the available 5 GHz network
-and to use the range extenders as unmanaged switches. These nodes then provided a network access point for both the 
+We had installed two WiFI mesh nodes to repeat the available 5 GHz network
+and to use the range extenders as unmanaged switches. These provided a network access point for both the 
 Amcrest camera (IP4M-1053EW) as well as two client terminals. The client terminals were on the some
 local network (via the WiFi extenders) which allowed me to access the camera over IP using blue iris. 
 
