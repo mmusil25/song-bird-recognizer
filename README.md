@@ -18,6 +18,11 @@ focus around the birds.
 
 ![The entire view field](media/frame.jpg)
 
+The cropped images (below) then go directly into the neural network after being squashed to shape=(112,112,3)
+
+![crop](media/crop.jpg)
+![crop1](media/crop1.jpg)
+
 
 ### SysML diagrams
 
