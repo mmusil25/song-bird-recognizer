@@ -2,11 +2,13 @@
 
 ## Results
 
-<img src="media/Purple_Martin.jpg" alt="Azure Jay" width = "600">
-_A classification result taken directly from the nature camera_
+<img src="media/Purple_Martin.jpg" alt="Azure Jay" width = "300">
+*A classification result taken directly from the nature camera*
 
-<img src="media/Azure_Jay.jpg" alt="Purple Martin" width = "600">
-_A second result_
+---
+
+<img src="media/Azure_Jay.jpg" alt="Purple Martin" width = "300">
+*A second result*
 
 ### The story
 
@@ -30,8 +32,7 @@ focus around the birds.
 
 
 
-<img src="media/frame.jpg" alt="View field" width="500"/>
-<br/>
+![Entire frame](media/frame.jpg)
 _The view field of the nature camera which received input_
 
 The cropped images (below) then go directly into the neural network after being squashed to shape=(112,112,3)
