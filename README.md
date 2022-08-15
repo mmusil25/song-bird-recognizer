@@ -3,11 +3,13 @@
 ## Results
 
 A classification result taken directly from the nature camera
+<br/>
 <img src="media/Purple_Martin.jpg" alt="Azure Jay" width = "300"/>
 <br/>
 
 
 A second result
+<br/>
 <img src="media/Azure_Jay.jpg" alt="Purple Martin" width="300"/>
 <br/>
 
@@ -51,10 +53,12 @@ The user is then expected to crop the image down to the orange or yellow rectang
 <br/>
 
 An example of a cropped image ready for input
+<br/>
 <img src="media/crop.jpg" alt="crop" width="200"/>
 <br/>
 
 And another
+<br/>
 <img src="media/crop1.jpg" alt="crop1" width="200"/>
 <br/>
 
