@@ -60,7 +60,7 @@ This bird classification project was an offshoot of my other goal which was to c
 my dad. Once I established a wireless LAN I realized that I could connect the camera over IP to my computer.
 
 
-Once the hotspot had a reliable LTE input, we installed two WiFI mesh nodes to broadband the available 5 GHz network
+Once the hotspot had a reliable LTE input, we installed two WiFI mesh nodes to repeat the available 5 GHz network
 and to use the range extenders as unmanaged switches. These nodes then provided a network access point for both the 
 Amcrest camera (IP4M-1053EW) as well as two client terminals. The client terminals were on the some
 local network (via the WiFi extenders) which allowed me to access the camera over IP using blue iris. 
