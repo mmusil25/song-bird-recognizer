@@ -50,6 +50,10 @@ C:\my\path\to\song-bird-recongizer>python controller.py
 
 ### The story
 
+A few years back my dad installed an Amcrest IP4M-1053EW on his property in Arizona
+
+![Entire frame](media/cam.jpg)
+
 I recently visited my father and we were both interested by the idea of using his nature cam to build an
 end-to-end bird classifier. A few years back I had made an antenna system for him to be able to access
 broadband LTE as a home internet solution. Our [first project during this year's visit](https://github.com/mmusil25/handmade-LTE-antenna) 
@@ -61,10 +65,11 @@ and to use the range extenders as unmanaged switches. These provided a network a
 Amcrest camera (IP4M-1053EW) as well as two client terminals. The client terminals were on the some
 local network (via the WiFi extenders) which allowed me to access the camera over IP using blue iris. 
 
+![Entire frame](media/frame.jpg)
+
 I configured Blue Iris to take snapshots of activity centered around the bird feeder in my father's yard. Here is a 
 picture of the input frame that was monitored continuously. You can see in this image that an orange rectangle is used to center
 focus around the birds.  
-
 
 
 ![Entire frame](media/frame.jpg)
