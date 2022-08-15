@@ -66,12 +66,9 @@ and to use the range extenders as unmanaged switches. These provided a network a
 Amcrest camera (IP4M-1053EW) as well as two client terminals. The client terminals were on the some
 local network (via the WiFi extenders) which allowed me to access the camera over IP using Blue Iris. 
 
-![Entire frame](media/frame.jpg)
-
 I configured Blue Iris to take snapshots of activity centered around the bird feeder in my father's yard. Here is a 
 picture of the input frame that was monitored continuously. You can see in this image that an orange rectangle is used to center
 focus around the birds.  
-
 
 ![Entire frame](media/frame.jpg)
 _The view field of the nature camera which received input_
