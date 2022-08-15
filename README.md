@@ -1,4 +1,4 @@
-# song bird classifier
+# A method for recognizing bird species
 
 
 
