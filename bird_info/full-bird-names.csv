@@ -1,0 +1,401 @@
+class_index,class,SCIENTIFIC NAME
+0,ABBOTTS BABBLER,Malacocincla abbotti
+1,ABBOTTS BOOBY,Papasula abbotti
+2,ABYSSINIAN GROUND HORNBILL,Bucorvus abyssinicus
+3,AFRICAN CROWNED CRANE,Balearica regulorum
+4,AFRICAN EMERALD CUCKOO,Chrysococcyx cupreus
+5,AFRICAN FIREFINCH,Lagonosticta rubricata
+6,AFRICAN OYSTER CATCHER,Haematopus moquini
+7,ALBATROSS,Diomedeidae
+8,ALBERTS TOWHEE,Pipilo aberti
+9,ALEXANDRINE PARAKEET,Psittacula eupatria
+10,ALPINE CHOUGH,Pyrrhocorax graculus
+11,ALTAMIRA YELLOWTHROAT,Geothlypis flavovelata
+12,AMERICAN AVOCET,Psittacula eupatria
+13,AMERICAN BITTERN,Botaurus lentiginosus
+14,AMERICAN COOT,Fulica americana
+15,AMERICAN GOLDFINCH,Spinus tristis
+16,AMERICAN KESTREL,Falco sparverius
+17,AMERICAN PIPIT,Anthus rubescens
+18,AMERICAN REDSTART,Setophaga ruticilla
+19,AMETHYST WOODSTAR,Calliphlox amethystina
+20,ANDEAN GOOSE,Chloephaga melanoptera
+21,ANDEAN LAPWING,Vanellus resplendens
+22,ANDEAN SISKIN,Spinus spinescens
+23,ANHINGA,Anhinga anhinga
+24,ANIANIAU,Magumma parva
+25,ANNAS HUMMINGBIRD,Calypte anna
+26,ANTBIRD,Thamnophilidae
+27,ANTILLEAN EUPHONIA,Euphonia musica
+28,APAPANE,Himatione sanguinea
+29,APOSTLEBIRD,Struthidea cinerea
+30,ARARIPE MANAKIN,Antilophia bokermanni
+31,ASHY THRUSHBIRD,Geokichla cinerea
+32,ASIAN CRESTED IBIS,Nipponia nippon
+33,AVADAVAT,Amandava amandava
+34,AZURE JAY,Cyanocorax caeruleus
+35,AZURE TANAGER,Thraupis cyanoptera
+36,AZURE TIT,Cyanistes cyanus
+37,BAIKAL TEAL,Anas formosa
+38,BALD EAGLE,Haliaeetus leucocephalus
+39,BALD IBIS,Geronticus eremita
+40,BALI STARLING,Leucopsar rothschildi
+41,BALTIMORE ORIOLE,Icterus galbula
+42,BANANAQUIT,Coereba flaveola
+43,BAND TAILED GUAN,Penelope argyrotis
+44,BANDED BROADBILL,Eurylaimus javanicus
+45,BANDED PITA,Hydrornis guajana
+46,BANDED STILT,Cladorhynchus leucocephalus
+47,BAR-TAILED GODWIT,Limosa lapponica
+48,BARN OWL,Tyto alba
+49,BARN SWALLOW,Hirundo rustica
+50,BARRED PUFFBIRD,Nystalus radiatus
+51,BARROWS GOLDENEYE,Bucephala islandica
+52,BAY-BREASTED WARBLER,Setophaga castanea
+53,BEARDED BARBET,Lybius dubius
+54,BEARDED BELLBIRD,Procnias averano
+55,BEARDED REEDLING,Panurus biarmicus
+56,BELTED KINGFISHER,Megaceryle alcyon
+57,BIRD OF PARADISE,Strelitzia
+58,BLACK & YELLOW BROADBILL,Eurylaimus ochromalus
+59,BLACK BAZA,Aviceda leuphotes
+60,BLACK COCKATO,Calyptorhynchus latirostris
+61,BLACK FRANCOLIN,Francolinus francolinus
+62,BLACK SKIMMER,Rynchops niger
+63,BLACK SWAN,Cygnus atratus
+64,BLACK TAIL CRAKE,Amaurornis bicolor
+65,BLACK THROATED BUSHTIT,Aegithalos concinnus
+66,BLACK THROATED WARBLER,Setophaga caerulescens
+67,BLACK VULTURE,Coragyps atratus
+68,BLACK-CAPPED CHICKADEE,Poecile atricapillus
+69,BLACK-NECKED GREBE,Podiceps nigricollis
+70,BLACK-THROATED SPARROW,Amphispiza bilineata
+71,BLACKBURNIAM WARBLER,Setophaga fusca
+72,BLONDE CRESTED WOODPECKER,Celeus flavescens
+73,BLUE COAU,Coua caerulea
+74,BLUE GROUSE,Dendragapus obscurus
+75,BLUE HERON,Ardea herodias
+76,BLUE THROATED TOUCANET,Aulacorhynchus caeruleogularis
+77,BOBOLINK,Dolichonyx oryzivorus
+78,BORNEAN BRISTLEHEAD,Pityriasis gymnocephala
+79,BORNEAN LEAFBIRD,Chloropsis kinabaluensis
+80,BORNEAN PHEASANT,Polyplectron schleiermacheri
+81,BRANDT CORMARANT,Phalacrocorax penicillatus
+82,BROWN CREPPER,Certhia americana
+83,BROWN NOODY,Anous stolidus
+84,BROWN THRASHER,Toxostoma rufum
+85,BULWERS PHEASANT,Lophura bulweri
+86,BUSH TURKEY,Alectura lathami
+87,CACTUS WREN,Campylorhynchus brunneicapillus
+88,CALIFORNIA CONDOR,Gymnogyps californianus
+89,CALIFORNIA GULL,Larus californicus
+90,CALIFORNIA QUAIL,Callipepla californica
+91,CANARY,Serinus canaria domestica
+92,CAPE GLOSSY STARLING,Lamprotornis nitens
+93,CAPE LONGCLAW,Macronyx capensis
+94,CAPE MAY WARBLER,Setophaga tigrina
+95,CAPE ROCK THRUSH,Monticola rupestris
+96,CAPPED HERON,Pilherodius pileatus
+97,CAPUCHINBIRD,Perissocephalus tricolor
+98,CARMINE BEE-EATER,Merops nubicoides
+99,CASPIAN TERN,Hydroprogne caspia
+100,CASSOWARY,Casuarius
+101,CEDAR WAXWING,Bombycilla cedrorum
+102,CERULEAN WARBLER,Setophaga cerulea
+103,CHARA DE COLLAR,Cyanolyca armillata
+104,CHATTERING LORY,Lorius garrulus
+105,CHESTNET BELLIED EUPHONIA,Euphonia pectoralis
+106,CHINESE BAMBOO PARTRIDGE,Bambusicola thoracicus
+107,CHINESE POND HERON,Ardeola bacchus
+108,CHIPPING SPARROW,Spizella passerina
+109,CHUCAO TAPACULO,Scelorchilus rubecula
+110,CHUKAR PARTRIDGE,Alectoris chukar
+111,CINNAMON ATTILA,Attila cinnamomeus
+112,CINNAMON FLYCATCHER,Pyrrhomyias cinnamomeus
+113,CINNAMON TEAL,Anas cyanoptera
+114,CLARKS NUTCRACKER,Nucifraga columbiana
+115,COCK OF THE  ROCK,Rupicola
+116,COCKATOO,Cacatuidae
+117,COLLARED ARACARI,Pteroglossus torquatus
+118,COMMON FIRECREST,Regulus ignicapilla
+119,COMMON GRACKLE,Quiscalus quiscula
+120,COMMON HOUSE MARTIN,Delichon urbicum
+121,COMMON IORA,Aegithina tiphia
+122,COMMON LOON,Gavia immer
+123,COMMON POORWILL,Phalaenoptilus nuttallii
+124,COMMON STARLING,Sturnus vulgaris
+125,COPPERY TAILED COUCAL,Centropus cupreicaudus
+126,CRAB PLOVER,Dromas ardeola
+127,CRANE HAWK,Geranospiza caerulescens
+128,CREAM COLORED WOODPECKER,Celeus flavus
+129,CRESTED AUKLET,Aethia cristatella
+130,CRESTED CARACARA,Caracara cheriway
+131,CRESTED COUA,Coua cristata
+132,CRESTED FIREBACK,Lophura ignita
+133,CRESTED KINGFISHER,Megaceryle lugubris
+134,CRESTED NUTHATCH,Sitta carolinensis
+135,CRESTED OROPENDOLA,Psarocolius decumanus
+136,CRESTED SHRIKETIT,Falcunculus frontatus
+137,CRIMSON CHAT,Epthianura tricolor
+138,CRIMSON SUNBIRD,Aethopyga siparaja
+139,CROW,Corvus
+140,CROWNED PIGEON,Goura
+141,CUBAN TODY,Todus multicolor
+142,CUBAN TROGON,Priotelus temnurus
+143,CURL CRESTED ARACURI,Pteroglossus beauharnaesii
+144,D-ARNAUDS BARBET,Trachyphonus darnaudii
+145,DARK EYED JUNCO,Junco hyemalis
+146,DEMOISELLE CRANE,Grus virgo
+147,DOUBLE BARRED FINCH,Taeniopygia bichenovii
+148,DOUBLE BRESTED CORMARANT,Phalacrocorax auritus
+149,DOUBLE EYED FIG PARROT,Cyclopsitta diophthalma
+150,DOWNY WOODPECKER,Picoides pubescens
+151,DUSKY LORY,Pseudeos fuscata
+152,EARED PITA,Hydrornis phayrei
+153,EASTERN BLUEBIRD,Sialia sialis
+154,EASTERN GOLDEN WEAVER,Ploceus subaureus
+155,EASTERN MEADOWLARK,Sturnella magna
+156,EASTERN ROSELLA,Platycercus eximius
+157,EASTERN TOWEE,Pipilo erythrophthalmus
+158,ELEGANT TROGON,Trogon elegans
+159,ELLIOTS  PHEASANT,Syrmaticus ellioti
+160,EMERALD TANAGER,Tangara florida
+161,EMPEROR PENGUIN,Aptenodytes forsteri
+162,EMU,Dromaius novaehollandiae
+163,ENGGANO MYNA,Gracula enganensis
+164,EURASIAN GOLDEN ORIOLE,Oriolus oriolus
+165,EURASIAN MAGPIE,Pica pica
+166,EUROPEAN GOLDFINCH,Carduelis carduelis
+167,EUROPEAN TURTLE DOVE,Streptopelia turtur
+168,EVENING GROSBEAK,Coccothraustes vespertinus
+169,FAIRY BLUEBIRD,Irena
+170,FAIRY TERN,Sternula nereis
+171,FIORDLAND PENGUIN,Eudyptes pachyrhynchus
+172,FIRE TAILLED MYZORNIS,Myzornis pyrrhoura
+173,FLAME BOWERBIRD,Sericulus ardens
+174,FLAME TANAGER,Piranga bidentata
+175,FLAMINGO,Phoenicopterus
+176,FRIGATE,Fregatidae
+177,GAMBELS QUAIL,Callipepla gambelii
+178,GANG GANG COCKATOO,Callocephalon fimbriatum
+179,GILA WOODPECKER,Melanerpes uropygialis
+180,GILDED FLICKER,Colaptes auratus
+181,GLOSSY IBIS,Plegadis falcinellus
+182,GO AWAY BIRD,Corythaixoides concolor
+183,GOLD WING WARBLER,Vermivora chrysoptera
+184,GOLDEN CHEEKED WARBLER,Setophaga chrysoparia
+185,GOLDEN CHLOROPHONIA,Chlorophonia callophrys
+186,GOLDEN EAGLE,Aquila chrysaetos
+187,GOLDEN PHEASANT,Chrysolophus pictus
+188,GOLDEN PIPIT,Tmetothylacus tenellus
+189,GOULDIAN FINCH,Erythrura gouldiae
+190,GRAY CATBIRD,Dumetella carolinensis
+191,GRAY KINGBIRD,Tyrannus dominicensis
+192,GRAY PARTRIDGE,Perdix perdix
+193,GREAT GRAY OWL,Strix nebulosa
+194,GREAT JACAMAR,Jacamerops aureus
+195,GREAT KISKADEE,Pitangus sulphuratus
+196,GREAT POTOO,Nyctibius grandis
+197,GREATOR SAGE GROUSE,Centrocercus urophasianus
+198,GREEN BROADBILL,Calyptomena viridis
+199,GREEN JAY,Cyanocorax yncas
+200,GREEN MAGPIE,Cissa chinensis
+201,GREY PLOVER,Pluvialis squatarola
+202,GROVED BILLED ANI,Crotophaga sulcirostris
+203,GUINEA TURACO,Tauraco persa
+204,GUINEAFOWL,Numididae
+205,GURNEYS PITTA,Hydrornis gurneyi
+206,GYRFALCON,Falco rusticolus
+207,HAMMERKOP,Scopus umbretta
+208,HARLEQUIN DUCK,Histrionicus histrionicus
+209,HARLEQUIN QUAIL,Coturnix delegorguei
+210,HARPY EAGLE,Harpia harpyja
+211,HAWAIIAN GOOSE,Branta sandvicensis
+212,HAWFINCH,Coccothraustes coccothraustes
+213,HELMET VANGA,Euryceros prevostii
+214,HEPATIC TANAGER,Piranga flava
+215,HIMALAYAN BLUETAIL,Tarsiger rufilatus
+216,HIMALAYAN MONAL,Lophophorus impejanus
+217,HOATZIN,Ophisthocomus hoazin
+218,HOODED MERGANSER,Lophodytes cucullatus
+219,HOOPOES,Upupidae
+220,HORNBILL,Bucerotidae
+221,HORNED GUAN,Oreophasis derbianus
+222,HORNED LARK,Eremophila alpestris
+223,HORNED SUNGEM,Heliactin bilophus
+224,HOUSE FINCH,Haemorhous mexicanus
+225,HOUSE SPARROW,Passer domesticus
+226,HYACINTH MACAW,Anodorhynchus hyacinthinus
+227,IBERIAN MAGPIE,scientific name
+228,IBISBILL,Ibidorhyncha struthersii
+229,IMPERIAL SHAQ,Leucocarbo atriceps
+230,INCA TERN,Larosterna inca
+231,INDIAN BUSTARD,Ardeotis nigriceps
+232,INDIAN PITTA,Pitta brachyura
+233,INDIAN ROLLER,Coracias benghalensis
+234,INDIGO BUNTING,Passerina cyanea
+235,INLAND DOTTEREL,Charadrius australis
+236,IVORY GULL,Pagophila eburnea
+237,IWI, Vestiaria coccinea.
+238,JABIRU,Jabiru mycteria
+239,JACK SNIPE,Lymnocryptes minimus
+240,JANDAYA PARAKEET,Aratinga jandaya
+241,JAPANESE ROBIN,Erithacus akahige
+242,JAVA SPARROW,Lonchura oryzivora
+243,KAGU,Rhynochetos jubatus
+244,KAKAPO,Strigops habroptilus
+245,KILLDEAR,Charadrius vociferus
+246,KING VULTURE,Sarcoramphus papa
+247,KIWI,Apteryx
+248,KOOKABURRA,Dacelo
+249,LARK BUNTING,Calamospiza melanocorys
+250,LAZULI BUNTING,Passerina amoena
+251,LESSER ADJUTANT,Leptoptilos javanicus
+252,LILAC ROLLER,Coracias caudatus
+253,LITTLE AUK,Alle alle
+254,LONG-EARED OWL,Asio otus
+255,MAGPIE GOOSE,Anseranas semipalmata
+256,MALABAR HORNBILL,Ocyceros griseus
+257,MALACHITE KINGFISHER,Corythornis cristatus
+258,MALAGASY WHITE EYE,Zosterops maderaspatanus
+259,MALEO,Macrocephalon maleo
+260,MALLARD DUCK,Anas platyrhynchos
+261,MANDRIN DUCK,Aix galericulata
+262,MANGROVE CUCKOO,Coccyzus minor
+263,MARABOU STORK,Leptoptilos crumenifer
+264,MASKED BOOBY,Sula dactylatra
+265,MASKED LAPWING,Vanellus miles
+266,MIKADO  PHEASANT,Syrmaticus mikado
+267,MOURNING DOVE,Zenaida macroura
+268,MYNA,Acridotheres tristis
+269,NICOBAR PIGEON,Caloenas nicobarica
+270,NOISY FRIARBIRD,Philemon corniculatus
+271,NORTHERN CARDINAL,Cardinalis cardinalis
+272,NORTHERN FLICKER,Colaptes auratus
+273,NORTHERN FULMAR,Fulmarus glacialis
+274,NORTHERN GANNET,Morus bassanus
+275,NORTHERN GOSHAWK,Accipiter gentilis
+276,NORTHERN JACANA,Jacana spinosa
+277,NORTHERN MOCKINGBIRD,Mimus polyglottos
+278,NORTHERN PARULA,Setophaga americana
+279,NORTHERN RED BISHOP,Euplectes franciscanus
+280,NORTHERN SHOVELER,Spatula clypeata
+281,OCELLATED TURKEY,Meleagris ocellata
+282,OKINAWA RAIL,Gallirallus okinawae
+283,ORANGE BRESTED BUNTING,Passerina leclancherii
+284,ORIENTAL BAY OWL,Phodilus badius
+285,OSPREY,Pandion haliaetus
+286,OSTRICH,Struthio camelus
+287,OVENBIRD,Seiurus aurocapilla
+288,OYSTER CATCHER,Haematopus
+289,PAINTED BUNTING,Passerina ciris
+290,PALILA,Loxioides bailleui
+291,PARADISE TANAGER,Tangara chilensis
+292,PARAKETT  AKULET,Aethia psittacula
+293,PARUS MAJOR,Parus major
+294,PATAGONIAN SIERRA FINCH,Phrygilus patagonicus
+295,PEACOCK,Pavo cristatus
+296,PELICAN,Pelecanus
+297,PEREGRINE FALCON,Falco peregrinus
+298,PHILIPPINE EAGLE,Pithecophaga jefferyi
+299,PINK ROBIN,Petroica rodinogaster
+300,POMARINE JAEGER,Stercorarius pomarinus
+301,PUFFIN,Fratercula
+302,PURPLE FINCH,Haemorhous purpureus
+303,PURPLE GALLINULE,Porphyrio martinicus
+304,PURPLE MARTIN,Progne subis
+305,PURPLE SWAMPHEN,Porphyrio porphyrio
+306,PYGMY KINGFISHER,Ispidina picta
+307,QUETZAL,Pharomachrus mocinno
+308,RAINBOW LORIKEET,Trichoglossus moluccanus
+309,RAZORBILL,Alca torda
+310,RED BEARDED BEE EATER,Nyctyornis amictus
+311,RED BELLIED PITTA,Pitta erythrogaster
+312,RED BROWED FINCH,Neochmia temporalis
+313,RED FACED CORMORANT,Phalacrocorax urile
+314,RED FACED WARBLER,Cardellina rubrifrons
+315,RED FODY,Foudia madagascariensis
+316,RED HEADED DUCK,Aythya americana
+317,RED HEADED WOODPECKER,Melanerpes erythrocephalus
+318,RED HONEY CREEPER,Cyanerpes cyaneus
+319,RED NAPED TROGON,Harpactes kasumba
+320,RED TAILED HAWK,Buteo jamaicensis
+321,RED TAILED THRUSH,Neocossyphus rufus
+322,RED WINGED BLACKBIRD,Agelaius phoeniceus
+323,RED WISKERED BULBUL,Pycnonotus jocosus
+324,REGENT BOWERBIRD,Sericulus chrysocephalus
+325,RING-NECKED PHEASANT,Phasianus colchicus
+326,ROADRUNNER,Geococcyx
+327,ROBIN,Turdus migratorius
+328,ROCK DOVE,Columba livia
+329,ROSY FACED LOVEBIRD,Agapornis roseicollis
+330,ROUGH LEG BUZZARD,Buteo lagopus
+331,ROYAL FLYCATCHER,Onychorhynchus
+332,RUBY THROATED HUMMINGBIRD,Archilochus colubris
+333,RUDY KINGFISHER,Halcyon coromanda
+334,RUFOUS KINGFISHER,Chloroceryle inda
+335,RUFUOS MOTMOT,Baryphthengus martii
+336,SAMATRAN THRUSH,Myophonus castaneus
+337,SAND MARTIN,Riparia riparia
+338,SANDHILL CRANE,Grus canadensis
+339,SATYR TRAGOPAN,Tragopan satyra
+340,SCARLET CROWNED FRUIT DOVE,Ptilinopus insularis
+341,SCARLET IBIS,Eudocimus ruber
+342,SCARLET MACAW,Ara macao
+343,SCARLET TANAGER,Piranga olivacea
+344,SHOEBILL,Balaeniceps rex
+345,SHORT BILLED DOWITCHER,Limnodromus griseus
+346,SMITHS LONGSPUR,Calcarius pictus
+347,SNOWY EGRET,Egretta thula
+348,SNOWY OWL,Bubo scandiacus
+349,SORA,Porzana carolina
+350,SPANGLED COTINGA,Cotinga cayana
+351,SPLENDID WREN,Malurus splendens
+352,SPOON BILED SANDPIPER,Calidris pygmaea
+353,SPOONBILL,Platalea
+354,SPOTTED CATBIRD,Ailuroedus maculosus
+355,SRI LANKA BLUE MAGPIE,Urocissa ornata
+356,STEAMER DUCK,Tachyeres
+357,STORK BILLED KINGFISHER,Pelargopsis capensis
+358,STRAWBERRY FINCH,Amandava amandava
+359,STRIPED OWL,Asio clamator
+360,STRIPPED MANAKIN,Machaeropterus regulus
+361,STRIPPED SWALLOW,Cecropis abyssinica
+362,SUPERB STARLING,Lamprotornis superbus
+363,SWINHOES PHEASANT,Lophura swinhoii
+364,TAILORBIRD,Orthotomus atrogularis
+365,TAIWAN MAGPIE,Urocissa caerulea
+366,TAKAHE,Porphyrio hochstetteri
+367,TASMANIAN HEN,Tribonyx mortierii
+368,TEAL DUCK,Anas crecca
+369,TIT MOUSE,Paridae
+370,TOUCHAN,Ramphastidae
+371,TOWNSENDS WARBLER,Setophaga townsendi
+372,TREE SWALLOW,Tachycineta bicolor
+373,TROPICAL KINGBIRD,Tyrannus melancholicus
+374,TRUMPTER SWAN,Cygnus buccinator
+375,TURKEY VULTURE,Cathartes aura
+376,TURQUOISE MOTMOT,Eumomota superciliosa
+377,UMBRELLA BIRD,Cephalopterus
+378,VARIED THRUSH,Ixoreus naevius
+379,VENEZUELIAN TROUPIAL,Icterus icterus
+380,VERMILION FLYCATHER,Pyrocephalus obscurus
+381,VICTORIA CROWNED PIGEON,Goura victoria
+382,VIOLET GREEN SWALLOW,Tachycineta thalassina
+383,VIOLET TURACO,Musophaga violacea
+384,VULTURINE GUINEAFOWL,Acryllium vulturinum
+385,WALL CREAPER,Tichodroma muraria
+386,WATTLED CURASSOW,Crax globulosa
+387,WATTLED LAPWING,Vanellus indicus
+388,WHIMBREL,Numenius phaeopus
+389,WHITE BROWED CRAKE,Amaurornis cinerea
+390,WHITE CHEEKED TURACO,Tauraco leucotis
+391,WHITE NECKED RAVEN,Corvus albicollis
+392,WHITE TAILED TROPIC,Phaethon lepturus
+393,WHITE THROATED BEE EATER,Merops albicollis
+394,WILD TURKEY,Meleagris gallopavo
+395,WILSONS BIRD OF PARADISE,Cicinnurus respublica
+396,WOOD DUCK,Aix sponsa
+397,YELLOW BELLIED FLOWERPECKER,Dicaeum melanoxanthum
+398,YELLOW CACIQUE,Cacicus cela
+399,YELLOW HEADED BLACKBIRD,Xanthocephalus
