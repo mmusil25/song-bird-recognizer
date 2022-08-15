@@ -13,16 +13,36 @@ Amcrest camera (IP4M-1053EW) as well as two client terminals. The client termina
 local network (via the WiFi extenders) which allowed me to access the camera over IP using blue iris. 
 
 I configured Blue Iris to take snapshots of activity centered around the bird feeder in my father's yard. Here is a 
-picture of the input frame that was monitored continuously. 
+picture of the input frame that was monitored continuously. You can see in this image that an orange rectangle is used to center
+focus around the birds.  
 
 ![The entire view field](media/frame.jpg)
 
 
-
 ### SysML diagrams
 
-![Network diagram](SysML/Dads_network.JPEG)
+#### System Requirements
+![Req diagram](SysML/What_it_must_do.JPEG)
 
+#### General domain
+![BDD diagram1](SysML/Home_networking_domain.JPEG)
+
+#### Home network domain
+![BDD diagram2](SysML/Network_domain.JPEG)
+
+#### Nature camera state machine
+![SM diagram](SysML/Camera_capture_and_network_drop.JPEG)
+
+#### User flow
+![ACT1](SysML/User_flow.JPEG)
+
+#### Primary Use Case
+![UC diagram](SysML/Classify_bird.JPEG)
+
+
+#### Network internal block diagram
+![Network diagram](SysML/Dads_network.JPEG)
+#### 
 
 
 
