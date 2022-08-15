@@ -14,8 +14,6 @@ A second result
 <br/>
 
 
-## Installation and usage
-
 
 
 ### The story
@@ -77,7 +75,6 @@ The network is called
 '''
 EfficientNetB4-BIRDS-0.99.h5
 '''
-
 
 All cropped images then proceed into the neural network after being squashed to shape=(112,112,3) by tensorflow. 
 The neural network was not trained in house but instead was loaded from an existing premade network (.H5 file). This design
