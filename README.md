@@ -30,7 +30,6 @@ EfficientNetB4-BIRDS-0.99.h5
 
 Pip install these
 
-Requirements
 ```
 numpy
 keras
