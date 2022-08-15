@@ -64,7 +64,7 @@ Once I established a wireless LAN I realized that I could connect his nature cam
 We had installed two WiFI mesh nodes to repeat the available 5 GHz network
 and to use the range extenders as unmanaged switches. These provided a network access point for both the 
 Amcrest camera (IP4M-1053EW) as well as two client terminals. The client terminals were on the some
-local network (via the WiFi extenders) which allowed me to access the camera over IP using blue iris. 
+local network (via the WiFi extenders) which allowed me to access the camera over IP using Blue Iris. 
 
 ![Entire frame](media/frame.jpg)
 
@@ -76,7 +76,7 @@ focus around the birds.
 ![Entire frame](media/frame.jpg)
 _The view field of the nature camera which received input_
 
-When a bird enters the frame of the camera BlueIris takes a snapshot and deposits that snapshot in its default path
+When a bird enters the frame of the camera Blue Iris takes a snapshot and deposits that snapshot in its default path
 
 ```
 C:/BlueIris/New
