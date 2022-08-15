@@ -2,13 +2,17 @@
 
 ## Results
 
-<img src="media/Purple_Martin.jpg" alt="Azure Jay" width = "300">
+<img src="media/Purple_Martin.jpg" alt="Azure Jay" width = "300"/>
 *A classification result taken directly from the nature camera*
 
 ---
 
-<img src="media/Azure_Jay.jpg" alt="Purple Martin" width = "300">
+<img src="media/Azure_Jay.jpg" alt="Purple Martin" width = "300"/>
 *A second result*
+
+## Installation and usage
+
+
 
 ### The story
 
@@ -35,19 +39,31 @@ focus around the birds.
 ![Entire frame](media/frame.jpg)
 _The view field of the nature camera which received input_
 
-The cropped images (below) then go directly into the neural network after being squashed to shape=(112,112,3)
+When a bird enters the frame of the camera BlueIris takes a snapshot and deposits that snapshot in its default path
 
----
+'''
+C:/BlueIris/New
+'''
 
-<img src="media/crop.jpg" alt="crop" width="500"/>
+The user is then expected to crop the image down to the orange or yellow rectangle defining the bird they want to classify. 
+
+
+<img src="media/crop.jpg" alt="crop" width="200"/>
 <br/>
 _An example cropped image_
 
----
-
-<img src="media/crop1.jpg" alt="crop1" width="500"/>
+<img src="media/crop1.jpg" alt="crop1" width="200"/>
 <br/>
-_
+
+The cropped images (below) then go directly into the neural network after being squashed to shape=(112,112,3). 
+The neural network was NOT trained in house but instead was loaded from an existing premade network (.H5 file). 
+You can find [that network and the dataset here](https://www.kaggle.com/datasets/gpiosenka/100-bird-species).
+
+The network is called
+
+'''
+EfficientNetB4-BIRDS-0.99.h5
+'''
 
 ### SysML diagrams
 
