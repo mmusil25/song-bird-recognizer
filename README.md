@@ -4,7 +4,7 @@
 
 :bird:
 
-by Mark Musil. See me full portfolio: [www.markmusil.com](https://www.markmusil.click/)
+by Mark Musil. See me full portfolio: [www.markmusil.click](https://www.markmusil.click/)
 
 ## Results
 
